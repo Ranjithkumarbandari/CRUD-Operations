@@ -94,6 +94,4 @@ public List<MyEntity> getAllRecords() throws SQLException {
 
 MIT License
 
----
 
-If you want, I can help generate sample Java CRUD classes or more detailed README sections. Just let me know!
